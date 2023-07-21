@@ -1,0 +1,1 @@
+{"type":"View","props":{"width":140,"height":168},"compId":2,"child":[{"type":"Image","props":{"y":0,"x":0,"width":140,"var":"gameIcon","height":140},"compId":8},{"type":"Text","props":{"y":146,"x":4,"width":131,"var":"txt_name","height":22,"fontSize":20,"color":"#000000","align":"center","runtime":"Laya.Text"},"compId":9}],"loadList":[],"loadList3D":[]}
